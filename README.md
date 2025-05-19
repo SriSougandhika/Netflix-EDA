@@ -24,3 +24,6 @@ Source: [Netflix Movies and TV Shows | Kaggle](https://www.kaggle.com/datasets/s
 - Plotly
 - WordCloud
 - Missingno
+
+## 🙌 Credits
+Project by Sri – an aspiring Data Scientist exploring AI in creative ways!
